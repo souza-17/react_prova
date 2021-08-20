@@ -40,7 +40,7 @@ REGRA DE NEGOCIO
 - REQUISITO DO SISTEMA
 - TER NODEJS INSTALADO COM NPM
 - NAVEGAR ATE A RAIZ COM TERMINAL DOS DIRETORIOS DE CADA PROJETO 
-	- final - executar npm start
+	- final - executar npm start - abre no navegador - http://localhost:3000/
 	- prova_api - executar npm start
 
 - USUARIOS PARA ACESSO DO SISTEMA  
